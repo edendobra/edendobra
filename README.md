@@ -31,7 +31,7 @@
    <a href = "#"> <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" >
  <img src="https://img.shields.io/github/followers/edendobra.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
-   ![Snake animation](https://github.com/AlpetGexh/edendobra/blob/output/github-contribution-grid-snake.svg) <br>
+   ![Snake animation](https://github.com/edendobra/edendobra-master/blob/main/snake.svg) <br>
    [![trophy](https://github-profile-trophy.vercel.app/?username=edendobra&theme=nord)]
   <br />
   
