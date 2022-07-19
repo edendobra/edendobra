@@ -1,6 +1,6 @@
 ## My Profile  
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/alpetgexh">
+  <a href="https://github.com/edendobra">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=alpetgexh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpetgexh&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -31,11 +31,11 @@
    <a href = "#"> <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" >
  <img src="https://img.shields.io/github/followers/edendobra.svg?style=social&label=Follow&maxAge=2592000" ></a>
   
-   ![Snake animation](https://github.com/AlpetGexh/AlpetGexh/blob/output/github-contribution-grid-snake.svg) <br>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=alpetgexh&theme=nord)]
+   ![Snake animation](https://github.com/AlpetGexh/edendobra/blob/output/github-contribution-grid-snake.svg) <br>
+   [![trophy](https://github-profile-trophy.vercel.app/?username=edendobra&theme=nord)]
   <br />
   
-<a href="https://github.com/edendobra/"><img alt="Eden Dobra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlpetGexh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/edendobra/"><img alt="" src="https://komarev.com/ghpvc/?username=edendobra" /></a>
+<a href="https://github.com/edendobra/"><img alt="Eden Dobra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=edendobra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br/> <a href="https://github.com/edendobra/"><img alt="" src="https://komarev.com/ghpvc/?username=edendobra" /></a>
   
 </div>
   
