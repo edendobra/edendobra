@@ -20,7 +20,7 @@
   ##
   
 <div align="center"> 
-   <a href = "https://drive.google.com/file/d/11nllas0hLBCThB4t5ZzMekV1NWnd9G9c/view?usp=sharing"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
+   <a href = "[https://drive.google.com/file/d/11nllas0hLBCThB4t5ZzMekV1NWnd9G9c/view?usp=sharing](https://drive.google.com/file/d/1Sd72fMUiRVwwMz92OsAgBvhRChIL3gG5/view)"> <img target="_blank" src="https://img.shields.io/badge/CV-Open%20CV-grey?style=for-the-badge" >
   <a href="https://www.instagram.com/edendobra_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/844978201393627156" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:edendobra031@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
